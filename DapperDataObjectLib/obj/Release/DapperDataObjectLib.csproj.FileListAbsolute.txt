@@ -1,0 +1,60 @@
+C:\janchen\JanchenSys\DapperDataObjectLib\bin\Release\DapperDataObjectLib.dll.config
+C:\janchen\JanchenSys\DapperDataObjectLib\bin\Release\DapperDataObjectLib.dll
+C:\janchen\JanchenSys\DapperDataObjectLib\bin\Release\DapperDataObjectLib.pdb
+C:\janchen\JanchenSys\DapperDataObjectLib\bin\Release\Dapper.dll
+C:\janchen\JanchenSys\DapperDataObjectLib\bin\Release\Oracle.ManagedDataAccess.dll
+C:\janchen\JanchenSys\DapperDataObjectLib\bin\Release\Dapper.pdb
+C:\janchen\JanchenSys\DapperDataObjectLib\bin\Release\Dapper.xml
+C:\janchen\JanchenSys\DapperDataObjectLib\obj\Release\DapperDataObjectLib.csprojResolveAssemblyReference.cache
+C:\janchen\JanchenSys\DapperDataObjectLib\obj\Release\DapperDataObjectLib.dll
+C:\janchen\JanchenSys\DapperDataObjectLib\obj\Release\DapperDataObjectLib.pdb
+D:\janchen\JanchenSys\DapperDataObjectLib\bin\Release\DapperDataObjectLib.dll.config
+D:\janchen\JanchenSys\DapperDataObjectLib\bin\Release\DapperDataObjectLib.dll
+D:\janchen\JanchenSys\DapperDataObjectLib\bin\Release\DapperDataObjectLib.pdb
+D:\janchen\JanchenSys\DapperDataObjectLib\bin\Release\Dapper.dll
+D:\janchen\JanchenSys\DapperDataObjectLib\bin\Release\Oracle.ManagedDataAccess.dll
+D:\janchen\JanchenSys\DapperDataObjectLib\bin\Release\Dapper.pdb
+D:\janchen\JanchenSys\DapperDataObjectLib\bin\Release\Dapper.xml
+D:\janchen\JanchenSys\DapperDataObjectLib\obj\Release\DapperDataObjectLib.csprojResolveAssemblyReference.cache
+D:\janchen\JanchenSys\DapperDataObjectLib\obj\Release\DapperDataObjectLib.dll
+D:\janchen\JanchenSys\DapperDataObjectLib\obj\Release\DapperDataObjectLib.pdb
+C:\Users\csh0741\Documents\Visual Studio 2015\Projects\WebApplication1\DapperDataObjectLib\bin\Release\DapperDataObjectLib.dll.config
+C:\Users\csh0741\Documents\Visual Studio 2015\Projects\WebApplication1\DapperDataObjectLib\bin\Release\DapperDataObjectLib.dll
+C:\Users\csh0741\Documents\Visual Studio 2015\Projects\WebApplication1\DapperDataObjectLib\bin\Release\DapperDataObjectLib.pdb
+C:\Users\csh0741\Documents\Visual Studio 2015\Projects\WebApplication1\DapperDataObjectLib\bin\Release\Dapper.dll
+C:\Users\csh0741\Documents\Visual Studio 2015\Projects\WebApplication1\DapperDataObjectLib\bin\Release\Oracle.ManagedDataAccess.dll
+C:\Users\csh0741\Documents\Visual Studio 2015\Projects\WebApplication1\DapperDataObjectLib\bin\Release\Dapper.pdb
+C:\Users\csh0741\Documents\Visual Studio 2015\Projects\WebApplication1\DapperDataObjectLib\bin\Release\Dapper.xml
+C:\Users\csh0741\Documents\Visual Studio 2015\Projects\WebApplication1\DapperDataObjectLib\obj\Release\DapperDataObjectLib.csprojResolveAssemblyReference.cache
+C:\Users\csh0741\Documents\Visual Studio 2015\Projects\WebApplication1\DapperDataObjectLib\obj\Release\DapperDataObjectLib.dll
+C:\Users\csh0741\Documents\Visual Studio 2015\Projects\WebApplication1\DapperDataObjectLib\obj\Release\DapperDataObjectLib.pdb
+D:\janchen\WebApplication1\DapperDataObjectLib\bin\Release\DapperDataObjectLib.dll.config
+D:\janchen\WebApplication1\DapperDataObjectLib\bin\Release\DapperDataObjectLib.dll
+D:\janchen\WebApplication1\DapperDataObjectLib\bin\Release\DapperDataObjectLib.pdb
+D:\janchen\WebApplication1\DapperDataObjectLib\bin\Release\Dapper.dll
+D:\janchen\WebApplication1\DapperDataObjectLib\bin\Release\Oracle.ManagedDataAccess.dll
+D:\janchen\WebApplication1\DapperDataObjectLib\bin\Release\Dapper.pdb
+D:\janchen\WebApplication1\DapperDataObjectLib\bin\Release\Dapper.xml
+D:\janchen\WebApplication1\DapperDataObjectLib\obj\Release\DapperDataObjectLib.csprojResolveAssemblyReference.cache
+D:\janchen\WebApplication1\DapperDataObjectLib\obj\Release\DapperDataObjectLib.dll
+D:\janchen\WebApplication1\DapperDataObjectLib\obj\Release\DapperDataObjectLib.pdb
+D:\系統開發相關\DMATEK\DapperDataObjectLib\bin\Release\DapperDataObjectLib.dll.config
+D:\系統開發相關\DMATEK\DapperDataObjectLib\bin\Release\DapperDataObjectLib.dll
+D:\系統開發相關\DMATEK\DapperDataObjectLib\bin\Release\DapperDataObjectLib.pdb
+D:\系統開發相關\DMATEK\DapperDataObjectLib\bin\Release\Dapper.dll
+D:\系統開發相關\DMATEK\DapperDataObjectLib\bin\Release\Oracle.ManagedDataAccess.dll
+D:\系統開發相關\DMATEK\DapperDataObjectLib\bin\Release\Dapper.pdb
+D:\系統開發相關\DMATEK\DapperDataObjectLib\bin\Release\Dapper.xml
+D:\系統開發相關\DMATEK\DapperDataObjectLib\obj\Release\DapperDataObjectLib.csprojResolveAssemblyReference.cache
+D:\系統開發相關\DMATEK\DapperDataObjectLib\obj\Release\DapperDataObjectLib.dll
+D:\系統開發相關\DMATEK\DapperDataObjectLib\obj\Release\DapperDataObjectLib.pdb
+D:\系統開發相關\FETSys\DapperDataObjectLib\bin\Release\DapperDataObjectLib.dll.config
+D:\系統開發相關\FETSys\DapperDataObjectLib\bin\Release\DapperDataObjectLib.dll
+D:\系統開發相關\FETSys\DapperDataObjectLib\bin\Release\DapperDataObjectLib.pdb
+D:\系統開發相關\FETSys\DapperDataObjectLib\bin\Release\Dapper.dll
+D:\系統開發相關\FETSys\DapperDataObjectLib\bin\Release\Oracle.ManagedDataAccess.dll
+D:\系統開發相關\FETSys\DapperDataObjectLib\bin\Release\Dapper.pdb
+D:\系統開發相關\FETSys\DapperDataObjectLib\bin\Release\Dapper.xml
+D:\系統開發相關\FETSys\DapperDataObjectLib\obj\Release\DapperDataObjectLib.csprojResolveAssemblyReference.cache
+D:\系統開發相關\FETSys\DapperDataObjectLib\obj\Release\DapperDataObjectLib.dll
+D:\系統開發相關\FETSys\DapperDataObjectLib\obj\Release\DapperDataObjectLib.pdb
