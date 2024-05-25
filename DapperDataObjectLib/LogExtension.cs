@@ -31,8 +31,5 @@ namespace DapperDataObjectLib
                     oSw.Dispose();
             }
         }//end method
-
-
-
     }//end Extension class
 }//end namespace
